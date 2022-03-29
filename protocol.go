@@ -8,7 +8,7 @@ import (
 
 	"go.uber.org/zap"
 
-	"go.lsp.dev/jsonrpc2"
+	"github.com/ja-he/jsonrpc2"
 )
 
 // NewServer returns the context in which client is embedded, jsonrpc2.Conn, and the Client.

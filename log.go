@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"go.lsp.dev/jsonrpc2"
+	"github.com/ja-he/jsonrpc2"
 )
 
 // loggingStream represents a logging of jsonrpc2.Stream.

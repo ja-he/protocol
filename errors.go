@@ -3,7 +3,7 @@
 
 package protocol
 
-import "go.lsp.dev/jsonrpc2"
+import "github.com/ja-he/jsonrpc2"
 
 const (
 	// LSPReservedErrorRangeStart is the start range of LSP reserved error codes.

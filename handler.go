@@ -9,7 +9,7 @@ import (
 
 	"github.com/segmentio/encoding/json"
 
-	"go.lsp.dev/jsonrpc2"
+	"github.com/ja-he/jsonrpc2"
 	"go.lsp.dev/pkg/xcontext"
 )
 
